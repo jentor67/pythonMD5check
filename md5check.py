@@ -2,7 +2,7 @@ import hashlib
 import sys
 
 """md5check.py: Determine whether 2 files match."""
-"""user>python md5check.py <file1> <file2>
+"""user>python md5check.py <file1> <file2>"""
 
 __author__    = "John Major"
 __copyright__ = "Copyright 2018, Jentor"
